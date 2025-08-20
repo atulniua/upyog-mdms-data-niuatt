@@ -25,7 +25,7 @@
           "code": "pg.citye"
         },
         {
-        "code": "pg.amritsar"
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -50,6 +50,9 @@
         },
         {
           "code": "pg.citye"
+        },
+        {
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -90,6 +93,9 @@
         },
         {
           "code": "pg.citye"
+        },
+        {
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -123,6 +129,9 @@
         },
         {
           "code": "pg.shimla"
+        },
+        {
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -371,6 +380,9 @@
         },
         {
           "code": "pg.citye"
+        },
+        {
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -449,6 +461,9 @@
         },
         {
           "code": "pg.shimla"
+        },
+        {
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -670,7 +685,10 @@
         },
         {
           "code": "pg.shimla"
-        } 
+        },
+        {
+          "code": "pg.amritsar"
+        }
       ]
     },
     {
@@ -703,7 +721,10 @@
         },
         {
           "code": "pg.shimla"
-        } 
+        },
+        {
+          "code": "pg.amritsar"
+        }
       ]
     },
     {
@@ -800,6 +821,9 @@
         },
         {
           "code": "pg.kurali"
+        },
+        {
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -832,6 +856,9 @@
         },
         {
           "code": "pg.shimla"
+        },
+        {
+          "code": "pg.amritsar"
         }
       ]
     },
@@ -864,6 +891,9 @@
         },
         {
           "code": "pg.shimla"
+        },
+        {
+          "code": "pg.amritsar"
         }
       ]
     } ,
@@ -974,7 +1004,10 @@
         },
         {
           "code": "pg.shimla"
-        } 
+        },
+        {
+          "code": "pg.amritsar"
+        }
       ]
     },
     {
@@ -1006,7 +1039,10 @@
         },
         {
           "code": "pg.shimla"
-        } 
+        },
+        {
+          "code": "pg.amritsar"
+        }
       ]
     },
     {
@@ -1038,7 +1074,10 @@
         },
         {
           "code": "pg.shimla"
-        } 
+        },
+        {
+          "code": "pg.amritsar"
+        }
       ]
     }  
   ]
