@@ -5,7 +5,7 @@
         {
             "id": 1,
             "occupancy": "residential",
-            "permissible": 0.19,
+            "permissible": 0.17,
             "active": true
         },
         {

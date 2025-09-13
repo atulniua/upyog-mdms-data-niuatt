@@ -3,21 +3,21 @@
     "moduleName": "BPA",
     "Doors": [
         {
-            "id" : 1,
+            "id": 1,
             "occupancy": "residential",
-            "permissible": 1,
+            "permissible": 0.9,
             "active": true
         },
         {
-            "id" : 2,
+            "id": 2,
             "occupancy": "commercial",
-            "permissible": 2,
+            "permissible": 0.9,
             "active": true
         },
         {
-            "id" : 3,
+            "id": 3,
             "occupancy": "industrial",
-            "permissible": 3,
+            "permissible": 0.9,
             "active": true
         }
     ]
