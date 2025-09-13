@@ -5,21 +5,21 @@
         {
             "id": 1,
             "occupancy": "residential",
-            "minDoorWidth": 1,
+            "minDoorWidth": 0.9,
             "minDoorHeight": 2,
             "active": true
         },
         {
             "id": 2,
             "occupancy": "commercial",
-            "minDoorWidth": 1.2,
+            "minDoorWidth": 0.9,
             "minDoorHeight": 2.2,
             "active": true
         },
         {
             "id": 3,
             "occupancy": "industrial",
-            "minDoorWidth": 1.5,
+            "minDoorWidth": 0.9,
             "minDoorHeight": 2.5,
             "active": true
         }

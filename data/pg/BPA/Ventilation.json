@@ -4,23 +4,44 @@
     "Ventilation": [
         {
             "id": 1,
+            "state": "pg",
+            "city": null,
+            "zone": null,
+            "subZone": null,
+            "riskType": null,
             "occupancy": "residential",
-            "ventilationValueOne": 8,
+            "ventilationValueOne": 6,
             "ventilationValueTwo": 0.3,
+            "commonRoomPercent": 0.5,
+            "laundryRecreationPercent": 0.10,
             "active": true
         },
         {
             "id": 2,
+            "state": "pg",
+            "city": null,
+            "zone": null,
+            "subZone": "y",
+            "riskType": null,
             "occupancy": "commercial",
             "ventilationValueOne": 10,
             "ventilationValueTwo": 0.4,
+            "commonRoomPercent": 0.5,
+            "laundryRecreationPercent": 0.10,
             "active": true
         },
         {
             "id": 3,
+            "state": "pg",
+            "city": null,
+            "zone": null,
+            "subZone": "y",
+            "riskType": null,
             "occupancy": "industrial",
             "ventilationValueOne": 12,
             "ventilationValueTwo": 0.5,
+            "commonRoomPercent": 0.5,
+            "laundryRecreationPercent": 0.10,
             "active": true
         }
     ]

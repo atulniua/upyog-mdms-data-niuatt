@@ -1,0 +1,19 @@
+{
+    "tenantId": "pg",
+    "moduleName": "BPA",
+    "DistanceFromWaterBodies": [
+    {
+        "id": 1,
+        "occupancy": null,
+        "river": 15,
+        "bharaluMoraBondajan": 10,
+        "otherChannels": 6,
+        "notifiedWaterBodies": 15,
+        "otherNotifiedWaterBodies": 6,
+        "otherLargePondsWaterBodies": 10,
+        "state": "pg",
+        "riskType": null,
+        "active": true
+    }
+]
+}

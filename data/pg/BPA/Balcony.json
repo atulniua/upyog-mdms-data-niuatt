@@ -5,7 +5,25 @@
     {
         "id": 1,
         "occupancy": "residential",
-        "permissible": 0.91,
+        "permissible": 1.5,
+        "active": true
+    },
+    {
+        "id": 2,
+        "occupancy": "commercial",
+        "permissible": 1.5,
+        "active": true
+    },
+    {
+        "id": 3,
+        "occupancy": "industrial",
+        "permissible": 1.5,
+        "active": true
+    },
+    {
+        "id": 4,
+        "occupancy": null,
+        "permissible": 1.5,
         "active": true
     },
     {

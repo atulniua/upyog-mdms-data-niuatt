@@ -4,6 +4,8 @@
     "Kitchen": [
         {
             "id": 1,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 18,
             "occupancy": "residential",
             "kitchenHeight": 2.75,
             "kitchenArea": 5,
@@ -12,6 +14,40 @@
             "kitchenStoreWidth": 1.8,
             "kitchenDiningWidth": 2.1,
             "kitchenDiningArea": 7.5,
+            "kitchenDiningVentilationArea": 6.25,
+            "kitchenDiningVentilationWidth": 2.5,
+            "active": true
+        },
+        {
+            "id": 2,
+            "occupancy": "commercial",
+            "kitchenHeight": 3,
+            "kitchenArea": 5,
+            "kitchenWidth": 1.8,
+            "kitchenStoreArea": 4.5,
+            "kitchenStoreWidth": 1.8,
+            "kitchenDiningWidth": 2.1,
+            "kitchenDiningArea": 7.5,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 18,
+            "kitchenDiningVentilationArea": 6.25,
+            "kitchenDiningVentilationWidth": 2.5,
+            "active": true
+        },
+        {
+            "id": 3,
+            "occupancy": "industrial",
+            "kitchenHeight": 2,
+            "kitchenArea": 5,
+            "kitchenWidth": 1.8,
+            "kitchenStoreArea": 4.5,
+            "kitchenStoreWidth": 1.8,
+            "kitchenDiningWidth": 2.1,
+            "kitchenDiningArea": 7.5,
+            "fromBuildingHeight": 0,
+            "toBuildingHeight": 18,
+            "kitchenDiningVentilationArea": 6.25,
+            "kitchenDiningVentilationWidth": 2.5,
             "active": true
         },
                 {

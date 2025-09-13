@@ -2,104 +2,181 @@
     "tenantId": "pg",
     "moduleName": "BPA",
     "SideYardService": [
-        {
-            "id": 1,
-            "occupancy": "residential",
-            "sideYardValueOne": 1,
-            "sideYardValueTwo": 1.2,
-            "sideYardValueThree": 1.5,
-            "sideYardValueFour": 1.8,
-            "sideYardValueFive": 2,     
-            "sideYardValueSix": 2.5,
-            "sideYardValueSeven": 3,
-            "sideYardValueEight": 3.66,
-            "sideYardValueNine": 4,
-            "sideYardValueTen": 4.5,
-            "sideYardValueEleven": 5,
-            "sideYardValueTwelve": 6,
-            "sideYardValueThirteen": 7,
-            "sideYardValueFourteen": 0.75,
-            "sideYardValueFifteen": 8,
-            "sideYardValueSixteen": 9,
-            "sideYardValueSeventeen": 10,
-            "sideYardValueEighteen": 12.2,
-            "sideYardValueNineteen": 30,
-            "sideYardValueTwenty": 100,
-            "sideYardValueTwentyOne": 150,
-            "sideYardValueTwentyTwo": 200,
-            "sideYardValueTwentyThree": 300,
-            "sideYardValueTwentyFour": 500,
-            "sideYardValueTwentyFive": 1000,
-            "sideYardValueTwentySix": 5,
-            "sideYardValueTwentySeven": 2.0,
-            "sideYardValueTwentyEight": 3.0,
-            "active": true
-        },
-        {
-            "id": 2,
-            "occupancy": "commercial",
-            "sideYardValueOne": 1.2,
-            "sideYardValueTwo": 1.4,
-            "sideYardValueThree": 1.7,
-            "sideYardValueFour": 2.0,
-            "sideYardValueFive": 2.3,
-            "sideYardValueSix": 2.8,
-            "sideYardValueSeven": 3.2,
-            "sideYardValueEight": 3.8,
-            "sideYardValueNine": 4.2,
-            "sideYardValueTen": 4.8,
-            "sideYardValueEleven": 5.5,
-            "sideYardValueTwelve": 6.5,
-            "sideYardValueThirteen": 7.5,
-            "sideYardValueFourteen": 1.0,
-            "sideYardValueFifteen": 9,
-            "sideYardValueSixteen": 10,
-            "sideYardValueSeventeen": 11,
-            "sideYardValueEighteen": 14.0,
-            "sideYardValueNineteen": 35,
-            "sideYardValueTwenty": 120,
-            "sideYardValueTwentyOne": 170,
-            "sideYardValueTwentyTwo": 220,
-            "sideYardValueTwentyThree": 350,
-            "sideYardValueTwentyFour": 600,
-            "sideYardValueTwentyFive": 1200,
-            "sideYardValueTwentySix": 6,
-            "sideYardValueTwentySeven": 2.5,
-            "sideYardValueTwentyEight": 3.5,
-            "active": true
-        },
-        {
-            "id": 3,
-            "occupancy": "industrial",
-            "sideYardValueOne": 1.5,
-            "sideYardValueTwo": 1.7,
-            "sideYardValueThree": 2.0,
-            "sideYardValueFour": 2.4,
-            "sideYardValueFive": 2.8,
-            "sideYardValueSix": 3.3,
-            "sideYardValueSeven": 3.8,
-            "sideYardValueEight": 4.5,
-            "sideYardValueNine": 5.0,
-            "sideYardValueTen": 5.7,
-            "sideYardValueEleven": 6.5,
-            "sideYardValueTwelve": 7.5,
-            "sideYardValueThirteen": 8.5,
-            "sideYardValueFourteen": 1.2,
-            "sideYardValueFifteen": 10,
-            "sideYardValueSixteen": 12,
-            "sideYardValueSeventeen": 13,
-            "sideYardValueEighteen": 16.0,
-            "sideYardValueNineteen": 40,
-            "sideYardValueTwenty": 150,
-            "sideYardValueTwentyOne": 200,
-            "sideYardValueTwentyTwo": 250,
-            "sideYardValueTwentyThree": 400,
-            "sideYardValueTwentyFour": 700,
-            "sideYardValueTwentyFive": 1400,
-            "sideYardValueTwentySix": 7,
-            "sideYardValueTwentySeven": 3.0,
-            "sideYardValueTwentyEight": 4.0,
-            "active": true
-        }
+      {
+        "id": 1,
+        "fromBuildingHeight": 0,
+        "toBuildingHeight": 9.6,
+        "occupancy": "residential",
+        "permissible": 1.8,
+        "active": true
+      },
+      {
+        "id": 2,
+        "fromBuildingHeight": 9.61,
+        "toBuildingHeight": 12.6,
+        "occupancy": "residential",
+        "permissible": 2.4,
+        "active": true
+      },
+      {
+        "id": 3,
+        "fromBuildingHeight": 12.61,
+        "toBuildingHeight": 15.6,
+        "occupancy": "residential",
+        "permissible": 3.6,
+        "active": true
+      },
+      {
+        "id": 4,
+        "fromBuildingHeight": 15.61,
+        "toBuildingHeight": 18.6,
+        "occupancy": "residential",
+        "permissible": 4.2,
+        "active": true
+      },
+      {
+        "id": 5,
+        "fromBuildingHeight": 18.61,
+        "toBuildingHeight": 21.6,
+        "occupancy": "residential",
+        "permissible": 5.0,
+        "active": true
+      },
+      {
+        "id": 6,
+        "fromBuildingHeight": 21.61,
+        "toBuildingHeight": 24.6,
+        "occupancy": "residential",
+        "permissible": 5.5,
+        "active": true
+      },
+      {
+        "id": 7,
+        "fromBuildingHeight": 24.61,
+        "toBuildingHeight": 27.6,
+        "occupancy": "residential",
+        "permissible": 6.0,
+        "active": true
+      },
+      {
+        "id": 8,
+        "fromBuildingHeight": 27.61,
+        "toBuildingHeight": 30.6,
+        "occupancy": "residential",
+        "permissible": 7.0,
+        "active": true
+      },
+      {
+        "id": 9,
+        "fromBuildingHeight": 30.61,
+        "toBuildingHeight": 36.6,
+        "occupancy": "residential",
+        "permissible": 9.0,
+        "active": true
+      },
+      {
+        "id": 10,
+        "fromBuildingHeight": 36.61,
+        "toBuildingHeight": 45.6,
+        "occupancy": "residential",
+        "permissible": 10.0,
+        "active": true
+      },
+      {
+        "id": 11,
+        "fromBuildingHeight": 45.61,
+        "toBuildingHeight": 9999,
+        "occupancy": "residential",
+        "permissible": 12.0,
+        "active": true
+      },
+      {
+        "id": 12,
+        "fromBuildingHeight": 0,
+        "toBuildingHeight": 9.6,
+        "occupancy": "commercial",
+        "permissible": 1.8,
+        "active": true
+      },
+      {
+        "id": 13,
+        "fromBuildingHeight": 9.61,
+        "toBuildingHeight": 12.6,
+        "occupancy": "commercial",
+        "permissible": 2.4,
+        "active": true
+      },
+      {
+        "id": 14,
+        "fromBuildingHeight": 12.61,
+        "toBuildingHeight": 15.6,
+        "occupancy": "commercial",
+        "permissible": 3.6,
+        "active": true
+      },
+      {
+        "id": 15,
+        "fromBuildingHeight": 15.61,
+        "toBuildingHeight": 18.6,
+        "occupancy": "commercial",
+        "permissible": 4.2,
+        "active": true
+      },
+      {
+        "id": 16,
+        "fromBuildingHeight": 18.61,
+        "toBuildingHeight": 21.6,
+        "occupancy": "commercial",
+        "permissible": 5.0,
+        "active": true
+      },
+      {
+        "id": 17,
+        "fromBuildingHeight": 21.61,
+        "toBuildingHeight": 24.6,
+        "occupancy": "commercial",
+        "permissible": 5.5,
+        "active": true
+      },
+      {
+        "id": 18,
+        "fromBuildingHeight": 24.61,
+        "toBuildingHeight": 27.6,
+        "occupancy": "commercial",
+        "permissible": 6.0,
+        "active": true
+      },
+      {
+        "id": 19,
+        "fromBuildingHeight": 27.61,
+        "toBuildingHeight": 30.6,
+        "occupancy": "commercial",
+        "permissible": 7.0,
+        "active": true
+      },
+      {
+        "id": 20,
+        "fromBuildingHeight": 30.61,
+        "toBuildingHeight": 36.6,
+        "occupancy": "commercial",
+        "permissible": 9.0,
+        "active": true
+      },
+      {
+        "id": 21,
+        "fromBuildingHeight": 36.61,
+        "toBuildingHeight": 45.6,
+        "occupancy": "commercial",
+        "permissible": 10.0,
+        "active": true
+      },
+      {
+        "id": 22,
+        "fromBuildingHeight": 45.61,
+        "toBuildingHeight": 9999,
+        "occupancy": "commercial",
+        "permissible": 12.0,
+        "active": true
+      }
     ]
-}
+  }
