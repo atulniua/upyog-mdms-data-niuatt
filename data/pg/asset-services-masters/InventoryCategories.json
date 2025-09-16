@@ -2,7 +2,7 @@
   "tenantId": "pg",
   "moduleName": "ASSET",
   "masterName": "InventoryCategories",
-  "Action": [
+  "InventoryCategories": [
     {
       "id": 1,
       "name": "Stationery",
