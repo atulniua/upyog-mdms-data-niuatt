@@ -13,6 +13,16 @@
         "minVentilationAreaValueTwo": "1.2",
         "minVentilationWidthValueOne": "0",
         "minVentilationWidthValueTwo": "0.9",
+
+        "buildingHeightThreshold": 18,
+        "wcAreaAboveThreshold" : 6.25,
+        "wcAreaBelowThreshold" : 4,
+        "wcWidthAboveThreshold" : 2.5,
+        "wcWidthBelowThreshold" : 2,
+        "kitchenAreaAboveThreshold" : 9,
+        "kitchenAreaBelowThreshold" : 6.25,
+        "kitchenWidthAboveThreshold" : 3,
+        "kitchenWidthBelowThreshold" : 2.5,
         "active": true
     },
         {
@@ -26,6 +36,16 @@
         "minVentilationAreaValueTwo": "1.2",
         "minVentilationWidthValueOne": "0",
         "minVentilationWidthValueTwo": "0.9",
+
+        "buildingHeightThreshold": 18,
+        "wcAreaAboveThreshold" : 6.25,
+        "wcAreaBelowThreshold" : 4,
+        "wcWidthAboveThreshold" : 2.5,
+        "wcWidthBelowThreshold" : 2,
+        "kitchenAreaAboveThreshold" : 9,
+        "kitchenAreaBelowThreshold" : 6.25,
+        "kitchenWidthAboveThreshold" : 3,
+        "kitchenWidthBelowThreshold" : 2.5,
         "active": true
     },
         {
@@ -39,6 +59,16 @@
         "minVentilationAreaValueTwo": "1.2",
         "minVentilationWidthValueOne": "0",
         "minVentilationWidthValueTwo": "0.9",
+
+        "buildingHeightThreshold": 18,
+        "wcAreaAboveThreshold" : 6.25,
+        "wcAreaBelowThreshold" : 4,
+        "wcWidthAboveThreshold" : 2.5,
+        "wcWidthBelowThreshold" : 2,
+        "kitchenAreaAboveThreshold" : 9,
+        "kitchenAreaBelowThreshold" : 6.25,
+        "kitchenWidthAboveThreshold" : 3,
+        "kitchenWidthBelowThreshold" : 2.5,
         "active": true
     }
 ]
