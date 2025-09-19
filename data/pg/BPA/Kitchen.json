@@ -16,6 +16,8 @@
             "kitchenDiningArea": 7.5,
             "kitchenDiningVentilationArea": 6.25,
             "kitchenDiningVentilationWidth": 2.5,
+            "kitchenDoorWidth": 0.9,
+            "kitchenDoorHeight": 0.9,
             "active": true
         },
         {
@@ -32,6 +34,8 @@
             "toBuildingHeight": 18,
             "kitchenDiningVentilationArea": 6.25,
             "kitchenDiningVentilationWidth": 2.5,
+            "kitchenDoorWidth": 0.9,
+            "kitchenDoorHeight": 0.9,
             "active": true
         },
         {
@@ -48,6 +52,8 @@
             "toBuildingHeight": 18,
             "kitchenDiningVentilationArea": 6.25,
             "kitchenDiningVentilationWidth": 2.5,
+            "kitchenDoorWidth": 0.9,
+            "kitchenDoorHeight": 0.9,
             "active": true
         },
                 {
@@ -60,6 +66,8 @@
             "kitchenStoreWidth": 1.8,
             "kitchenDiningWidth": 2.1,
             "kitchenDiningArea": 7.5,
+            "kitchenDoorWidth": 0.9,
+            "kitchenDoorHeight": 0.9,
             "active": true
         },
                 {
@@ -72,6 +80,8 @@
             "kitchenStoreWidth": 1.8,
             "kitchenDiningWidth": 2.1,
             "kitchenDiningArea": 7.5,
+            "kitchenDoorWidth": 0.9,
+            "kitchenDoorHeight": 0.9,
             "active": true
         }
     ]
