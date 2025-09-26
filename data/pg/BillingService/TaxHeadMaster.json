@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg",
+  "tenantId": "as",
   "moduleName": "BillingService",
   "TaxHeadMaster": [
     {
@@ -5966,6 +5966,36 @@
         "isDebit": false,
         "isActualDemand": true,
         "order": "0",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "",
+        "name": "BPA Planning Permit fees",
+        "code": "PLANNING_PERMIT_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "",
+        "name": "BPA Building Permit fees",
+        "code": "BUILDING_PERMIT_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "1",
+        "isRequired": false
+      },
+      {
+        "category": "FEE",
+        "service": "BPA.BUILDING_PERMIT_RENEWAL_FEE",
+        "name": "BPA Building Permit Renewal fees",
+        "code": "BUILDING_PERMIT_RENEWAL_FEE",
+        "isDebit": false,
+        "isActualDemand": true,
+        "order": "2",
         "isRequired": false
       }
   ]
