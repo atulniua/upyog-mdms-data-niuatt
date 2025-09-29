@@ -21458,6 +21458,18 @@
          "queryParams": "",
          "sidebar": "digit-ui-links",
          "sidebarURL": "/digit-ui/citizen/obpsv2-home"
+       },
+       {
+         "id": 3075,
+         "name": "BPA Calculator",
+         "url": "/bpa-calculator/_calculate",
+         "parentModule": "",
+         "displayName": "BPA Calculator",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "bpa-services",
+         "code": "null",
+         "path": ""
        }
   ]
 }
