@@ -7,7 +7,7 @@
         "stateLGDCode": 18,
         "districtLGDCode": 618,
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": "GUWAHATI_MC",
+        "bpAuthorityCode": "GMC",
         "bpAuthorityName": "Guwahati Municipal Corporation",
         "active": true
       },
@@ -16,7 +16,7 @@
         "stateLGDCode": 18,
         "districtLGDCode": 618,
         "ppAuthorityCode": "GMDA",
-        "bpAuthorityCode": "NORTH_GUWAHATI_MB",
+        "bpAuthorityCode": "NGMB",
         "bpAuthorityName": "North Guwahati Municipal Board",
         "active": true
       },
@@ -193,4 +193,3 @@
       }
     ]
 }
-  
