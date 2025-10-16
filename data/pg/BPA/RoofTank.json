@@ -10,8 +10,8 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
-            "permissible": 1.5,
+            "occupancy": "mercantile / commercial",
+            "permissible": 1,
             "active": true
         },
         {

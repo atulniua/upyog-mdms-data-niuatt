@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "permissible": 0.9,
             "active": true
         },
@@ -22,7 +22,7 @@
         },
         {
             "id" : 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "permissible": 2,
             "active": true
         },

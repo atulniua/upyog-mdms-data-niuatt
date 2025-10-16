@@ -15,7 +15,7 @@
             "id": 2,
             "fromBuildingHeight": 0,
             "toBuildingHeight": 15.6,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "permissible": "5",
             "active": true
         },

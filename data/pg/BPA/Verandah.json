@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "verandahWidth": 2.5,
             "verandahDepth": 4.0,
             "active": true

@@ -9,34 +9,23 @@
             "active": true
         },
         {
-            "id": 1,
+            "id": 2,
             "occupancy": "government",
             "permissible": 1.2,
             "active": true
         },
         {
-            "id": 2,
-            "occupancy": "commercial",
-            "permissible": 1.0,
-            "active": true
-        },
-        {
             "id": 3,
-            "occupancy": "industrial",
-            "permissible": 1.2,
+            "occupancy": "mercantile / commercial",
+            "permissible": 0.90,
             "active": true
         },
         {
-            "id": 2,
-            "occupancy": "commercial",
-            "permissible": 1.0,
-            "active": true
-        },
-        {
-            "id": 3,
+            "id": 4,
             "occupancy": "industrial",
             "permissible": 1.2,
             "active": true
         }
+       
     ]
 }

@@ -12,18 +12,18 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
-            "minToiletArea": 2.2,
-            "minToiletWidth": 1.5,
-            "minToiletVentilation": 0.4,
+            "occupancy": "mercantile / commercial",
+            "minToiletArea": 1.8,
+            "minToiletWidth": 1.2,
+            "minToiletVentilation": 0.3,
             "active": true
         },
         {
             "id": 3,
             "occupancy": "industrial",
-            "minToiletArea": 2.5,
-            "minToiletWidth": 1.7,
-            "minToiletVentilation": 0.5,
+            "minToiletArea": 1.8,
+            "minToiletWidth": 1.2,
+            "minToiletVentilation": 0.3,
             "active": true
         }
     ]

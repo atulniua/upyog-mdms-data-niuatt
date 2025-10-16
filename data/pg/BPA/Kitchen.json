@@ -22,7 +22,7 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "kitchenHeight": 3,
             "kitchenArea": 5,
             "kitchenWidth": 1.8,
@@ -58,7 +58,7 @@
         },
                 {
             "id": 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "kitchenHeight": 3,
             "kitchenArea": 5,
             "kitchenWidth": 1.8,

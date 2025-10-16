@@ -11,16 +11,16 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "minDoorWidth": 0.9,
-            "minDoorHeight": 2.2,
+            "minDoorHeight": 2,
             "active": true
         },
         {
             "id": 3,
             "occupancy": "industrial",
             "minDoorWidth": 0.9,
-            "minDoorHeight": 2.5,
+            "minDoorHeight": 2,
             "active": true
         }
     ]

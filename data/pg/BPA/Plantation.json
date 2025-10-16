@@ -11,15 +11,15 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
-            "permissible": 0.03,
+            "occupancy": "mercantile / commercial",
+            "permissible": 0.05,
             "percent": 3,
             "active": true
         },
         {
             "id": 3,
             "occupancy": "industrial",
-            "permissible": 0.02,
+            "permissible": 0.05,
             "percent": 2,
             "active": true
         }

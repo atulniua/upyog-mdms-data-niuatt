@@ -94,7 +94,7 @@
         "id": 12,
         "fromBuildingHeight": 0,
         "toBuildingHeight": 9.6,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "permissible": 1.8,
         "active": true
       },
@@ -102,7 +102,7 @@
         "id": 13,
         "fromBuildingHeight": 9.61,
         "toBuildingHeight": 12.6,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "permissible": 2.4,
         "active": true
       },
@@ -110,7 +110,7 @@
         "id": 14,
         "fromBuildingHeight": 12.61,
         "toBuildingHeight": 15.6,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "permissible": 3.6,
         "active": true
       },
@@ -118,7 +118,7 @@
         "id": 15,
         "fromBuildingHeight": 15.61,
         "toBuildingHeight": 18.6,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "permissible": 4.2,
         "active": true
       },
@@ -126,7 +126,7 @@
         "id": 16,
         "fromBuildingHeight": 18.61,
         "toBuildingHeight": 21.6,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "permissible": 5.0,
         "active": true
       },
@@ -134,7 +134,7 @@
         "id": 17,
         "fromBuildingHeight": 21.61,
         "toBuildingHeight": 24.6,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "permissible": 5.5,
         "active": true
       },
@@ -142,7 +142,7 @@
         "id": 18,
         "fromBuildingHeight": 24.61,
         "toBuildingHeight": 27.6,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "permissible": 6.0,
         "active": true
       },
@@ -150,7 +150,7 @@
         "id": 19,
         "fromBuildingHeight": 27.61,
         "toBuildingHeight": 30.6,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "permissible": 7.0,
         "active": true
       },
@@ -158,7 +158,7 @@
         "id": 20,
         "fromBuildingHeight": 30.61,
         "toBuildingHeight": 36.6,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "permissible": 9.0,
         "active": true
       },
@@ -166,7 +166,7 @@
         "id": 21,
         "fromBuildingHeight": 36.61,
         "toBuildingHeight": 45.6,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "permissible": 10.0,
         "active": true
       },
@@ -174,9 +174,25 @@
         "id": 22,
         "fromBuildingHeight": 45.61,
         "toBuildingHeight": 9999,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "permissible": 12.0,
         "active": true
-      }
+      },
+      {
+        "id": 23,
+        "fromPlotDepth": 0,
+        "toPlotDepth": 18,
+        "occupancy": "mercantile / commercial",
+        "permissible": 1.5,
+        "active": true
+      },
+      {
+        "id": 24,
+        "fromPlotDepth": 18,
+        "toPlotDepth": 99999,
+        "occupancy": "mercantile / commercial",
+        "permissible": 3.0,
+        "active": true
+      } 
     ]
   }

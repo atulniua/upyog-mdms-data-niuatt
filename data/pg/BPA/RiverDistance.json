@@ -13,7 +13,7 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "rDminDistanceFromProtectionWall": 40,
             "rDminDistanceFromEmbankment": 60,
             "rDminDistanceFromMainRiverEdge": 220,

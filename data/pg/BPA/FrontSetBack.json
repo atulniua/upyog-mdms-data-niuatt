@@ -173,7 +173,7 @@
             "toRoadWidth": 6.6,
             "fromBuildingHeight": 0,
             "toBuildingHeight": 9.6,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 3.6,
             "active": true
@@ -184,7 +184,7 @@
             "toRoadWidth": 6.6,
             "fromBuildingHeight": 9.6,
             "toBuildingHeight": 15.6,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 4.5,
             "active": true
@@ -195,7 +195,7 @@
             "toRoadWidth": 6.6,
             "fromBuildingHeight": 15.6,
             "toBuildingHeight": 999,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 6.0,
             "active": true
@@ -206,7 +206,7 @@
             "toRoadWidth": 15.0,
             "fromBuildingHeight": 0,
             "toBuildingHeight": 9.6,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 4.5,
             "active": true
@@ -217,7 +217,7 @@
             "toRoadWidth": 15.0,
             "fromBuildingHeight": 9.6,
             "toBuildingHeight": 15.6,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 6.0,
             "active": true
@@ -228,7 +228,7 @@
             "toRoadWidth": 15.0,
             "fromBuildingHeight": 15.6,
             "toBuildingHeight": 999,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 7.5,
             "active": true
@@ -239,7 +239,7 @@
             "toRoadWidth": 24.0,
             "fromBuildingHeight": 0,
             "toBuildingHeight": 9.6,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 6.0,
             "active": true
@@ -250,7 +250,7 @@
             "toRoadWidth": 24.0,
             "fromBuildingHeight": 9.6,
             "toBuildingHeight": 15.6,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 7.5,
             "active": true
@@ -261,7 +261,7 @@
             "toRoadWidth": 24.0,
             "fromBuildingHeight": 15.6,
             "toBuildingHeight": 999,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 9.0,
             "active": true
@@ -272,7 +272,7 @@
             "toRoadWidth": 45.0,
             "fromBuildingHeight": 0,
             "toBuildingHeight": 9.6,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 6.0,
             "active": true
@@ -283,7 +283,7 @@
             "toRoadWidth": 45.0,
             "fromBuildingHeight": 9.6,
             "toBuildingHeight": 15.6,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 9.0,
             "active": true
@@ -294,7 +294,7 @@
             "toRoadWidth": 45.0,
             "fromBuildingHeight": 15.6,
             "toBuildingHeight": 999,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 12.0,
             "active": true
@@ -305,7 +305,7 @@
             "toRoadWidth": 999,
             "fromBuildingHeight": 0,
             "toBuildingHeight": 9.6,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 7.5,
             "active": true
@@ -316,7 +316,7 @@
             "toRoadWidth": 999,
             "fromBuildingHeight": 9.6,
             "toBuildingHeight": 15.6,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 12.0,
             "active": true
@@ -327,7 +327,7 @@
             "toRoadWidth": 999,
             "fromBuildingHeight": 15.6,
             "toBuildingHeight": 999,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": null,
             "permissible": 15.0,
             "active": true
@@ -336,7 +336,7 @@
             "id": 5,
             "fromPlotArea": 80,
             "toPlotArea": 100,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": "low",
             "permissible": 1.54,
             "active": true
@@ -345,7 +345,7 @@
             "id": 6,
             "fromPlotArea": 100,
             "toPlotArea": 150,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": "low",
             "permissible": 1.8,
             "active": true
@@ -354,7 +354,7 @@
             "id": 7,
             "fromPlotArea": 150,
             "toPlotArea": 200,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": "low",
             "permissible": 2.16,
             "active": true
@@ -363,7 +363,7 @@
             "id": 8,
             "fromPlotArea": 200,
             "toPlotArea": 999999,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": "low",
             "permissible": 3.0,
             "active": true
@@ -444,7 +444,7 @@
             "id": 17,
             "fromPlotArea": 80,
             "toPlotArea": 100,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": "medium",
             "permissible": 1.3,
             "active": true
@@ -453,7 +453,7 @@
             "id": 18,
             "fromPlotArea": 100,
             "toPlotArea": 150,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": "medium",
             "permissible": 1.5,
             "active": true
@@ -462,7 +462,7 @@
             "id": 19,
             "fromPlotArea": 150,
             "toPlotArea": 200,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": "medium",
             "permissible": 1.8,
             "active": true
@@ -471,7 +471,7 @@
             "id": 20,
             "fromPlotArea": 200,
             "toPlotArea": 999999,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": "medium",
             "permissible": 2.5,
             "active": true
@@ -552,7 +552,7 @@
             "id": 29,
             "fromPlotArea": 80,
             "toPlotArea": 100,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": "high",
             "permissible": 1.1,
             "active": true
@@ -561,7 +561,7 @@
             "id": 30,
             "fromPlotArea": 100,
             "toPlotArea": 150,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": "high",
             "permissible": 1.3,
             "active": true
@@ -570,7 +570,7 @@
             "id": 31,
             "fromPlotArea": 150,
             "toPlotArea": 200,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": "high",
             "permissible": 1.5,
             "active": true
@@ -579,7 +579,7 @@
             "id": 32,
             "fromPlotArea": 200,
             "toPlotArea": 999999,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "riskType": "high",
             "permissible": 2.0,
             "active": true
