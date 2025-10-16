@@ -15,7 +15,7 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "vehicleRampValue": 5,
             "vehicleRampSlopeValueOne": 8,
             "vehicleRampSlopeValueTwo": 10,

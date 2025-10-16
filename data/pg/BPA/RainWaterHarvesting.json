@@ -10,14 +10,14 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
-            "permissible": 150,
+            "occupancy": "mercantile / commercial",
+            "permissible": 100,
             "active": true
         },
         {
             "id": 3,
             "occupancy": "industrial",
-            "permissible": 200,
+            "permissible": 100,
             "active": true
         }
     ]

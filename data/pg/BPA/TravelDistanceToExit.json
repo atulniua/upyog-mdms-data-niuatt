@@ -12,7 +12,7 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "travelDistanceToExitValueOne": 40,
             "travelDistanceToExitValueTwo": 25,
             "travelDistanceToExitValueThree": 4,

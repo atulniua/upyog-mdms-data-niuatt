@@ -17,7 +17,7 @@
             "id": 2,
             "fromBuildingHeight": "0",
             "toBuildingHeight": "18",
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "bathroomtotalArea": "2.8",
             "bathroomMinWidth": "1.2",
             "bathAndStoreVentilationArea": "4.0",

@@ -53,7 +53,7 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "additionalFeatureMinRequiredFloorHeight": 2,
             "additionalFeatureMaxPermissibleFloorHeight": 3.5,
             "additionalFeatureStiltFloor": 2.5,

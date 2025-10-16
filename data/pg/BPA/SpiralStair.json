@@ -12,9 +12,9 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "spiralStairValue": 12,
-            "spiralStairExpectedDiameter": 1.80,
+            "spiralStairExpectedDiameter": 1.50,
             "spiralStairRadius": 2.5,
             "active": true
         },
@@ -22,7 +22,7 @@
             "id": 3,
             "occupancy": "industrial",
             "spiralStairValue": 15,
-            "spiralStairExpectedDiameter": 2.00,
+            "spiralStairExpectedDiameter": 1.50,
             "spiralStairRadius": 3,
             "active": true
         }

@@ -13,7 +13,7 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "sanitationMinAreaofSPWC": 3.0,
             "sanitationMinDimensionofSPWC": 1.7,
             "sanitationMinatGroundFloor": 2,

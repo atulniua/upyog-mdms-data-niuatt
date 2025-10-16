@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "waterTankCapacityArea": 20,
             "waterTankCapacityExpected": 200,
             "active": true

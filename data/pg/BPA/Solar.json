@@ -11,7 +11,7 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
+            "occupancy": "mercantile / commercial",
             "solarValueOne": 600,
             "solarValueTwo": 800,
             "active": true

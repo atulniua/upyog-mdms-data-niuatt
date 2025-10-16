@@ -11,9 +11,9 @@
         },
         {
             "id": 2,
-            "occupancy": "commercial",
-            "plantationGreenStripPlanValue": 200,
-            "plantationGreenStripMinWidth": 0.8,
+            "occupancy": "mercantile / commercial",
+            "plantationGreenStripPlanValue": 300,
+            "plantationGreenStripMinWidth": 0.6,
             "active": true
         },
         {

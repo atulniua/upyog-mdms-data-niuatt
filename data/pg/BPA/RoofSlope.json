@@ -15,7 +15,7 @@
     },
     {
         "id": 2,
-        "occupancy": "commercial",
+        "occupancy": "mercantile / commercial",
         "permissible": 45,
         "state": "pg",
         "city": null,
