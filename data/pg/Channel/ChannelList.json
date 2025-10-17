@@ -1591,6 +1591,86 @@
         "EMAIL",
         "EVENT"
       ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "EDIT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "VALIDATE_GIS",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "APPLY_FOR_SCRUTINY",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "SEND",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "SEND_BACK_TO_RTP",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "SUBMIT_REPORT",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "RECOMMEND_TO_CHAIRMAN_DA",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
+    },
+    {
+      "businessService": "BPA.CREATE",
+      "module": "BPA",
+      "action": "SEND_BACK_TO_DA",
+      "channelNames": [
+        "SMS",
+        "EMAIL",
+        "EVENT"
+      ]
     }
   ]
 }
