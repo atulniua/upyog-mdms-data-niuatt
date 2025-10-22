@@ -28,6 +28,7 @@
             "isOpenParking": true,
             "noOfParking": 1,
             "permissibleTwoWheeler": 22.5,
+            "permissibleCarBasement": 30,
             "active": true
         },
         
@@ -41,6 +42,7 @@
             "isOpenParking": true,
             "noOfParking": 2,
             "permissibleVisitor": 22.5,
+            "permissibleCarBasement": 30,
             "active": true
         },
         {
@@ -74,6 +76,21 @@
             "isOpenParking": true,
             "noOfParking": 1,
             "permissible": 20,
+            "active": true
+        },
+        {
+            "id": 7,
+            "fromPlotArea": 100,
+            "toPlotArea": 9999999,
+            "perAreaCommercialShopsCar": 75,
+            "occupancy": "mercantile / commercial",
+            "riskType": null,
+            "isOpenParking": true,
+            "noOfParking": 1,
+            "permissible": 20,
+            "permissibleCarOpen": 20,
+            "permissibleCarStilt": 25,
+            "permissibleCarBasement": 30,
             "active": true
         }
     ]
