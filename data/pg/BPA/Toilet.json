@@ -5,7 +5,7 @@
         {
             "id": 1,
             "occupancy": "residential",
-            "minToiletArea": 1.8,
+            "minToiletArea": 2,
             "minToiletWidth": 1.2,
             "minToiletVentilation": 0.3,
             "active": true
@@ -13,7 +13,7 @@
         {
             "id": 2,
             "occupancy": "mercantile / commercial",
-            "minToiletArea": 1.8,
+            "minToiletArea": 2,
             "minToiletWidth": 1.2,
             "minToiletVentilation": 0.3,
             "active": true

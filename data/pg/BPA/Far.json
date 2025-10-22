@@ -47,7 +47,7 @@
       "occupancy": "residential",
       "maxTDRLoading": 0,
       "riskType": null,
-      "permissible": 1.50,
+      "permissible": 1.25,
       "farGuardRoomArea": 3.5,
       "farCareTakerRoomArea": 8,
       "farCanopyLength": 4.5,
