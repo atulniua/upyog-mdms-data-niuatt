@@ -32794,13 +32794,13 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-	{
+	  {
       "rolecode": "CITIZEN",
       "actionid": 3076,
       "actioncode": "",
       "tenantId": "pg"
     },
-	{
+	  {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 3076,
       "actioncode": "",
