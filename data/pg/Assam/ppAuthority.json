@@ -7,7 +7,7 @@
       "planningAreaCode": "NALBARI_MP",
       "districtCode": "NALBARI",
       "ppAuthorityCode": "NALBARI_DA",
-      "ppAuthorityName": "Nalbari Development Authority",
+      "ppAuthorityName": "DEVELOPMENT_AUTHORITY",
       "active": true
     },
     {
@@ -15,7 +15,7 @@
       "planningAreaCode": "BARPETA_MP",
       "districtCode": "BARPETA",
       "ppAuthorityCode": "BARPETA_DA",
-      "ppAuthorityName": "Barpeta Development Authority",
+      "ppAuthorityName": "DEVELOPMENT_AUTHORITY",
       "active": true
     },
     {
@@ -23,7 +23,7 @@
       "planningAreaCode": "DIBRUGARH_MP",
       "districtCode": "DIBRUGARH",
       "ppAuthorityCode": "DIBRUGARH_DA",
-      "ppAuthorityName": "Dibrugarh Development Authority",
+      "ppAuthorityName": "DEVELOPMENT_AUTHORITY",
       "active": true
     },
     {
@@ -31,7 +31,7 @@
       "planningAreaCode": "TINSUKIA_MP",
       "districtCode": "TINSUKIA",
       "ppAuthorityCode": "TINSUKIA_DA",
-      "ppAuthorityName": "Tinsukia Development Authority",
+      "ppAuthorityName": "DEVELOPMENT_AUTHORITY",
       "active": true
     },
     {
@@ -39,7 +39,7 @@
       "planningAreaCode": "SILCHAR_MP",
       "districtCode": "CACHAR",
       "ppAuthorityCode": "SILCHAR_DA",
-      "ppAuthorityName": "Silchar Development Authority",
+      "ppAuthorityName": "DEVELOPMENT_AUTHORITY",
       "active": true
     }
   ]

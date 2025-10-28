@@ -8,7 +8,7 @@
       "ppAuthorityCode": "NALBARI_DA",
       "bpAuthorityCode": "NALBARI_MB",
       "bpAuthorityName": "Nalbari Municipal Board",
-      "authorityType": "ULB",
+      "authorityType": "MUNICIPAL_BOARD",
       "active": true
       },
       {
@@ -160,7 +160,7 @@
       "ppAuthorityCode": "BARPETA_DA",
       "bpAuthorityCode": "BARPETA_MB",
       "bpAuthorityName": "Barpeta Municipal Board",
-      "authorityType": "ULB",
+      "authorityType": "MUNICIPAL_BOARD",
       "active": true
       },
       {
@@ -184,7 +184,7 @@
       "ppAuthorityCode": "DIBRUGARH_DA",
       "bpAuthorityCode": "DIBRUGARH_MC",
       "bpAuthorityName": "Dibrugarh Municipal Corporation",
-      "authorityType": "ULB",
+      "authorityType": "MUNICIPAL_BOARD",
       "active": true
       },
       {
@@ -360,7 +360,7 @@
       "ppAuthorityCode": "TINSUKIA_DA",
       "bpAuthorityCode": "TINSUKIA_MB",
       "bpAuthorityName": "Tinsukia Municipal Board",
-      "authorityType": "ULB",
+      "authorityType": "MUNICIPAL_BOARD",
       "active": true
       },
       {
@@ -472,7 +472,7 @@
       "ppAuthorityCode": "SILCHAR_DA",
       "bpAuthorityCode": "SILCHAR_MC",
       "bpAuthorityName": "Silchar Municipal Corporation",
-      "authorityType": "ULB",
+      "authorityType": "MUNICIPAL_BOARD",
       "active": true
       },
       {
