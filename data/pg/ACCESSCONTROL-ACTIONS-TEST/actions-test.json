@@ -21481,6 +21481,18 @@
 	      "serviceCode": "gis-service",
 	      "code": "null",
 	      "path": ""
-	    }
+	   },
+      {
+         "id": 3077,
+         "name": "BPA Payment search",
+         "url": "/collection-services/payments/BPA.PLANNING_PERMIT_FEE/_search",
+         "displayName": "BPA Payment search",
+         "orderNumber": 1,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "",
+         "code": "null",
+         "path": ""
+      }
   ]
 }
