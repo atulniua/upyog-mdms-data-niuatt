@@ -5,15 +5,15 @@
   [
       {
       "id": 1,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "NALBARI_MB",
       "bpAuthorityName": "Nalbari Municipal Board",
-      "authorityType": "ULB",
+      "authorityType": "MUNICIPAL_BOARD",
       "active": true
       },
       {
       "id": 2,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "PUB_BAHJANI",
       "bpAuthorityName": "Pub-Bahjani",
       "authorityType": "GRAM_PANCHAYAT",
@@ -21,7 +21,7 @@
       },
       {
       "id": 3,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "BALITARA_BATAHGILA",
       "bpAuthorityName": "Balitara Batahgila",
       "authorityType": "GRAM_PANCHAYAT",
@@ -29,7 +29,7 @@
       },
       {
       "id": 4,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "SARIATOLI",
       "bpAuthorityName": "Sariahtoli",
       "authorityType": "GRAM_PANCHAYAT",
@@ -37,7 +37,7 @@
       },
       {
       "id": 5,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "CHANDAKUCHI",
       "bpAuthorityName": "Chandakuchi",
       "authorityType": "GRAM_PANCHAYAT",
@@ -45,7 +45,7 @@
       },
       {
       "id": 6,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "UTTAR_PUB_DHARMAPUR",
       "bpAuthorityName": "37 No. Uttar Pub Dharmapur",
       "authorityType": "GRAM_PANCHAYAT",
@@ -53,7 +53,7 @@
       },
       {
       "id": 7,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "MADHYA_BAHJANI",
       "bpAuthorityName": "Madhya Bahjani",
       "authorityType": "GRAM_PANCHAYAT",
@@ -61,7 +61,7 @@
       },
       {
       "id": 8,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "HATI_NAMATI",
       "bpAuthorityName": "Hati Namati",
       "authorityType": "GRAM_PANCHAYAT",
@@ -69,7 +69,7 @@
       },
       {
       "id": 9,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "DAKSHIN_NALBARI",
       "bpAuthorityName": "Dakshin Nalbari",
       "authorityType": "GRAM_PANCHAYAT",
@@ -77,7 +77,7 @@
       },
       {
       "id": 10,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "UTTAR_PUB_KHATA",
       "bpAuthorityName": "Uttar Pub-Khata",
       "authorityType": "GRAM_PANCHAYAT",
@@ -85,7 +85,7 @@
       },
       {
       "id": 11,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "PUB_NALBARI",
       "bpAuthorityName": "Pub-Nalbari",
       "authorityType": "GRAM_PANCHAYAT",
@@ -93,7 +93,7 @@
       },
       {
       "id": 12,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "UPPER_BARBHAG_KHATA",
       "bpAuthorityName": "42 No. Upper Barbhag Khata",
       "authorityType": "GRAM_PANCHAYAT",
@@ -101,7 +101,7 @@
       },
       {
       "id": 13,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "DIGHELI",
       "bpAuthorityName": "Digheli",
       "authorityType": "GRAM_PANCHAYAT",
@@ -109,7 +109,7 @@
       },
       {
       "id": 14,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "NATUN_DEHAR",
       "bpAuthorityName": "41 No. Natun Dehar",
       "authorityType": "GRAM_PANCHAYAT",
@@ -117,7 +117,7 @@
       },
       {
       "id": 15,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "PANIGAON",
       "bpAuthorityName": "23 No. Panigaon",
       "authorityType": "GRAM_PANCHAYAT",
@@ -125,7 +125,7 @@
       },
       {
       "id": 16,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "GHOGRAPAR",
       "bpAuthorityName": "Ghograpar",
       "authorityType": "GRAM_PANCHAYAT",
@@ -133,7 +133,7 @@
       },
       {
       "id": 17,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "SILPOTABORI_LATIMA",
       "bpAuthorityName": "Silpotabori-Latima",
       "authorityType": "GRAM_PANCHAYAT",
@@ -141,7 +141,7 @@
       },
       {
       "id": 18,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "BARAJOL",
       "bpAuthorityName": "Barajol",
       "authorityType": "GRAM_PANCHAYAT",
@@ -149,7 +149,7 @@
       },
       {
       "id": 19,
-      "ppAuthorityCode": "NALBARI_DA",
+      "planningAreaCode": "NALBARI_MP",
       "bpAuthorityCode": "DIHJARI",
       "bpAuthorityName": "Dihjari",
       "authorityType": "GRAM_PANCHAYAT",
@@ -157,15 +157,15 @@
       },
       {
       "id": 20,
-      "ppAuthorityCode": "BARPETA_DA",
+      "planningAreaCode": "BARPETA_MP",
       "bpAuthorityCode": "BARPETA_MB",
       "bpAuthorityName": "Barpeta Municipal Board",
-      "authorityType": "ULB",
+      "authorityType": "MUNICIPAL_BOARD",
       "active": true
       },
       {
       "id": 21,
-      "ppAuthorityCode": "BARPETA_DA",
+      "planningAreaCode": "BARPETA_MP",
       "bpAuthorityCode": "PATBAUSHI",
       "bpAuthorityName": "Patbaushi",
       "authorityType": "GRAM_PANCHAYAT",
@@ -173,7 +173,7 @@
       },
       {
       "id": 22,
-      "ppAuthorityCode": "BARPETA_DA",
+      "planningAreaCode": "BARPETA_MP",
       "bpAuthorityCode": "SUNDARIDIA",
       "bpAuthorityName": "Sundaridia",
       "authorityType": "GRAM_PANCHAYAT",
@@ -181,15 +181,15 @@
       },
       {
       "id": 23,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "DIBRUGARH_MC",
       "bpAuthorityName": "Dibrugarh Municipal Corporation",
-      "authorityType": "ULB",
+      "authorityType": "MUNICIPAL_BOARD",
       "active": true
       },
       {
       "id": 24,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "RAJABHETA",
       "bpAuthorityName": "Rajabheta",
       "authorityType": "GRAM_PANCHAYAT",
@@ -197,7 +197,7 @@
       },
       {
       "id": 25,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "NIZ_MANKOTTA",
       "bpAuthorityName": "Niz-Mankotta",
       "authorityType": "GRAM_PANCHAYAT",
@@ -205,7 +205,7 @@
       },
       {
       "id": 26,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "HILOIDHARI",
       "bpAuthorityName": "Hiloidhari",
       "authorityType": "GRAM_PANCHAYAT",
@@ -213,7 +213,7 @@
       },
       {
       "id": 27,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "MANKOTTA_KHANIKAR",
       "bpAuthorityName": "Mankotta Khanikar",
       "authorityType": "GRAM_PANCHAYAT",
@@ -221,7 +221,7 @@
       },
       {
       "id": 28,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "ROMAI",
       "bpAuthorityName": "Romai",
       "authorityType": "GRAM_PANCHAYAT",
@@ -229,7 +229,7 @@
       },
       {
       "id": 29,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "TIMONA",
       "bpAuthorityName": "Timona",
       "authorityType": "GRAM_PANCHAYAT",
@@ -237,7 +237,7 @@
       },
       {
       "id": 30,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "MOHANBARI",
       "bpAuthorityName": "Mohanbari",
       "authorityType": "GRAM_PANCHAYAT",
@@ -245,7 +245,7 @@
       },
       {
       "id": 31,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "BOKUL",
       "bpAuthorityName": "Bokul",
       "authorityType": "GRAM_PANCHAYAT",
@@ -253,7 +253,7 @@
       },
       {
       "id": 32,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "MAIJAN",
       "bpAuthorityName": "Maijan",
       "authorityType": "GRAM_PANCHAYAT",
@@ -261,7 +261,7 @@
       },
       {
       "id": 33,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "NIZ_KANAI",
       "bpAuthorityName": "Niz Kanai",
       "authorityType": "GRAM_PANCHAYAT",
@@ -269,7 +269,7 @@
       },
       {
       "id": 34,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "MODERKHAT",
       "bpAuthorityName": "Moderkhat",
       "authorityType": "GRAM_PANCHAYAT",
@@ -277,7 +277,7 @@
       },
       {
       "id": 35,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "LAHOWAL",
       "bpAuthorityName": "Lahowal",
       "authorityType": "GRAM_PANCHAYAT",
@@ -285,7 +285,7 @@
       },
       {
       "id": 36,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "KOTOHA",
       "bpAuthorityName": "Kotoha",
       "authorityType": "GRAM_PANCHAYAT",
@@ -293,7 +293,7 @@
       },
       {
       "id": 37,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "BORPOTHAR",
       "bpAuthorityName": "Borpothar",
       "authorityType": "GRAM_PANCHAYAT",
@@ -301,7 +301,7 @@
       },
       {
       "id": 38,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "JOKAI",
       "bpAuthorityName": "Jokai",
       "authorityType": "GRAM_PANCHAYAT",
@@ -309,7 +309,7 @@
       },
       {
       "id": 39,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "LEJAI",
       "bpAuthorityName": "Lejai",
       "authorityType": "GRAM_PANCHAYAT",
@@ -317,7 +317,7 @@
       },
       {
       "id": 40,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "BARBARUA",
       "bpAuthorityName": "Barbarua",
       "authorityType": "GRAM_PANCHAYAT",
@@ -325,7 +325,7 @@
       },
       {
       "id": 41,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "DULIA_KAKOTI",
       "bpAuthorityName": "Dulia Kakoti",
       "authorityType": "GRAM_PANCHAYAT",
@@ -333,7 +333,7 @@
       },
       {
       "id": 42,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "KALAKHOWA",
       "bpAuthorityName": "Kalakhowa",
       "authorityType": "GRAM_PANCHAYAT",
@@ -341,7 +341,7 @@
       },
       {
       "id": 43,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "GARUDHORIA",
       "bpAuthorityName": "Garudhoria",
       "authorityType": "GRAM_PANCHAYAT",
@@ -349,7 +349,7 @@
       },
       {
       "id": 44,
-      "ppAuthorityCode": "DIBRUGARH_DA",
+      "planningAreaCode": "DIBRUGARH_MP",
       "bpAuthorityCode": "BOGIBEEL",
       "bpAuthorityName": "Bogibeel",
       "authorityType": "GRAM_PANCHAYAT",
@@ -357,15 +357,15 @@
       },
       {
       "id": 45,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "TINSUKIA_MB",
       "bpAuthorityName": "Tinsukia Municipal Board",
-      "authorityType": "ULB",
+      "authorityType": "MUNICIPAL_BOARD",
       "active": true
       },
       {
       "id": 46,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "RONGPURIA",
       "bpAuthorityName": "Rongpuria",
       "authorityType": "GRAM_PANCHAYAT",
@@ -373,7 +373,7 @@
       },
       {
       "id": 47,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "BORGURI",
       "bpAuthorityName": "Borguri",
       "authorityType": "GRAM_PANCHAYAT",
@@ -381,7 +381,7 @@
       },
       {
       "id": 48,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "BOJALTOLI",
       "bpAuthorityName": "Bojaltoli",
       "authorityType": "GRAM_PANCHAYAT",
@@ -389,7 +389,7 @@
       },
       {
       "id": 49,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "ITAKHULI_CHARIALI",
       "bpAuthorityName": "Itakhuli Chariali",
       "authorityType": "GRAM_PANCHAYAT",
@@ -397,7 +397,7 @@
       },
       {
       "id": 50,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "LAIPULI",
       "bpAuthorityName": "Laipuli",
       "authorityType": "GRAM_PANCHAYAT",
@@ -405,7 +405,7 @@
       },
       {
       "id": 51,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "DIMARUGURI",
       "bpAuthorityName": "Dimaruguri",
       "authorityType": "GRAM_PANCHAYAT",
@@ -413,7 +413,7 @@
       },
       {
       "id": 52,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "BAPUJI",
       "bpAuthorityName": "Bapuji",
       "authorityType": "GRAM_PANCHAYAT",
@@ -421,7 +421,7 @@
       },
       {
       "id": 53,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "GOTTONG",
       "bpAuthorityName": "Gottong",
       "authorityType": "GRAM_PANCHAYAT",
@@ -429,7 +429,7 @@
       },
       {
       "id": 54,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "PANITOLA",
       "bpAuthorityName": "Panitola",
       "authorityType": "GRAM_PANCHAYAT",
@@ -437,7 +437,7 @@
       },
       {
       "id": 55,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "BAREKURI",
       "bpAuthorityName": "Barekuri",
       "authorityType": "GRAM_PANCHAYAT",
@@ -445,7 +445,7 @@
       },
       {
       "id": 56,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "HAPJAN",
       "bpAuthorityName": "Hapjan",
       "authorityType": "GRAM_PANCHAYAT",
@@ -453,7 +453,7 @@
       },
       {
       "id": 57,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "JERAI",
       "bpAuthorityName": "Jerai",
       "authorityType": "GRAM_PANCHAYAT",
@@ -461,7 +461,7 @@
       },
       {
       "id": 58,
-      "ppAuthorityCode": "TINSUKIA_DA",
+      "planningAreaCode": "TINSUKIA_MP",
       "bpAuthorityCode": "TENGAPANI",
       "bpAuthorityName": "Tengapani",
       "authorityType": "GRAM_PANCHAYAT",
@@ -469,15 +469,15 @@
       },
       {
       "id": 59,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "SILCHAR_MC",
       "bpAuthorityName": "Silchar Municipal Corporation",
-      "authorityType": "ULB",
+      "authorityType": "MUNICIPAL_BOARD",
       "active": true
       },
       {
       "id": 60,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "MADHUR_BOND",
       "bpAuthorityName": "Madhur Bond",
       "authorityType": "GRAM_PANCHAYAT",
@@ -485,7 +485,7 @@
       },
       {
       "id": 61,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "BERENGA",
       "bpAuthorityName": "Berenga",
       "authorityType": "GRAM_PANCHAYAT",
@@ -493,7 +493,7 @@
       },
       {
       "id": 62,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "BHAGADHAR_BARJURAI",
       "bpAuthorityName": "Bhagadhar Barjurai",
       "authorityType": "GRAM_PANCHAYAT",
@@ -501,7 +501,7 @@
       },
       {
       "id": 63,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "AMBIKAPUR",
       "bpAuthorityName": "Ambikapur",
       "authorityType": "GRAM_PANCHAYAT",
@@ -509,7 +509,7 @@
       },
       {
       "id": 64,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "GHUNGOOR",
       "bpAuthorityName": "5 No Ghungoor",
       "authorityType": "GRAM_PANCHAYAT",
@@ -517,7 +517,7 @@
       },
       {
       "id": 65,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "BHANJANTIPUR",
       "bpAuthorityName": "Bhanjantipur",
       "authorityType": "GRAM_PANCHAYAT",
@@ -525,7 +525,7 @@
       },
       {
       "id": 66,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "MEHERPUR",
       "bpAuthorityName": "Meherpur",
       "authorityType": "GRAM_PANCHAYAT",
@@ -533,7 +533,7 @@
       },
       {
       "id": 67,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "KANAKPUR",
       "bpAuthorityName": "Kanakpur",
       "authorityType": "GRAM_PANCHAYAT",
@@ -541,7 +541,7 @@
       },
       {
       "id": 68,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "RONGPUR",
       "bpAuthorityName": "Rongpur",
       "authorityType": "GRAM_PANCHAYAT",
@@ -549,7 +549,7 @@
       },
       {
       "id": 69,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "UTTAR_KRISHNAPUR",
       "bpAuthorityName": "Uttar Krishnapur",
       "authorityType": "GRAM_PANCHAYAT",
@@ -557,7 +557,7 @@
       },
       {
       "id": 70,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "DAKSHIN_KRISHNAPUR",
       "bpAuthorityName": "Dakshin Krishnapur",
       "authorityType": "GRAM_PANCHAYAT",
@@ -565,7 +565,7 @@
       },
       {
       "id": 71,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "TUPKHANA",
       "bpAuthorityName": "Tupkhana",
       "authorityType": "GRAM_PANCHAYAT",
@@ -573,7 +573,7 @@
       },
       {
       "id": 72,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "GHOUNGOOR",
       "bpAuthorityName": "107 No. Ghoungoor",
       "authorityType": "GRAM_PANCHAYAT",
@@ -581,7 +581,7 @@
       },
       {
       "id": 73,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "BHORAKHAI",
       "bpAuthorityName": "Bhorakhai",
       "authorityType": "GRAM_PANCHAYAT",
@@ -589,7 +589,7 @@
       },
       {
       "id": 74,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "TARUTAJABARI",
       "bpAuthorityName": "Tarutajabari",
       "authorityType": "GRAM_PANCHAYAT",
@@ -597,7 +597,7 @@
       },
       {
       "id": 75,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "CHENKOORI",
       "bpAuthorityName": "Chenkoori",
       "authorityType": "GRAM_PANCHAYAT",
@@ -605,7 +605,7 @@
       },
       {
       "id": 76,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "RAJNAGAR",
       "bpAuthorityName": "Rajnagar",
       "authorityType": "GRAM_PANCHAYAT",
@@ -613,7 +613,7 @@
       },
       {
       "id": 77,
-      "ppAuthorityCode": "SILCHAR_DA",
+      "planningAreaCode": "SILCHAR_MP",
       "bpAuthorityCode": "KUMARPARA_NIZJOINAGAR",
       "bpAuthorityName": "Kumarpara Nizjoinagar",
       "authorityType": "GRAM_PANCHAYAT",
