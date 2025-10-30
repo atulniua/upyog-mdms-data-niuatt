@@ -1,182 +1,224 @@
 {
     "tenantId": "as",
     "module": "BPA",
-    "BPA_NOC": [
-        {
+    "nocRules": [
+      {
+        "permitType": "Planning Permit",
+        "nocs": [
+          {
             "type": "CIVIL_AVIATION",
-            "typeDesc": "NOC from Civil Aviation Authorities",
-            "stage": "Planning Permit",
+            "description": "NOC from Civil Aviation Authorities",
             "isRequired": true,
-            "applicability": "Buildings near aerodromes / within height zones – added by site engineer",
+            "source": "SITE_ENGINEER",
+            "conditions": [
+              "Buildings near aerodromes",
+              "Buildings within height restriction zones"
+            ],
             "reference": "Byelaw 28(f), 60(f)"
-        },
-        {
-            "type": "FIRE_SAFETY",
-            "typeDesc": "NOC from Director of Fire & Emergency Services",
-            "stage": "Building Permit / Occupancy",
-            "isRequired": true,
-            "applicability": "All non-residential & >15.8 m height – dxf file",
-            "reference": "Byelaw 28(d), 60(d), 94(2)(a)"
-        },
-        {
-            "type": "POLLUTION_CONTROL",
-            "typeDesc": "NOC from State Pollution Control Board (PCBA)",
-            "stage": "Building Permit",
-            "isRequired": true,
-            "applicability": "Hazardous industries, large commercial, hospitals, hotels – built up area >= 2 lakhs sq. ft.",
-            "reference": "Byelaw 95"
-        },
-        {
-            "type": "ARMY_DEFENCE",
-            "typeDesc": "NOC from Army / Defence Authority",
-            "stage": "Building Permit",
-            "isRequired": true,
-            "applicability": "Within 2000 m of depots, 1000 m of ranges, 500 m of cantonments",
-            "reference": "Byelaw 117(xi); Govt. Letter 07.06.2010"
-        },
-        {
-            "type": "GROUND_WATER",
-            "typeDesc": "NOC from State Ground Water Authority",
-            "stage": "Building Permit",
-            "isRequired": true,
-            "applicability": "If groundwater extraction proposed – compulsory for all",
-            "reference": "Byelaw 100(1)(iv)"
-        },
-        {
-            "type": "HEALTH_AUTHORITY",
-            "typeDesc": "NOC from Health Authority",
-            "stage": "Building Permit",
-            "isRequired": true,
-            "applicability": "Hospitals, nursing homes, incinerators – from application type health and hospital",
-            "reference": "Byelaw 94(1)(c)(ix)"
-        },
-        {
-            "type": "SACFA_RF",
-            "typeDesc": "NOC from SACFA (Radio Frequency)",
-            "stage": "Building Permit",
-            "isRequired": true,
-            "applicability": "Telecom towers & rooftop antennae",
-            "reference": "Byelaw 118(h)(iii)(a)"
-        },
-        {
-            "type": "ELECTRICAL_INSPECTOR",
-            "typeDesc": "NOC from Chief Electrical Inspector",
-            "stage": "Building Permit",
-            "isRequired": true,
-            "applicability": "Buildings >15 m, lifts, heavy electrical load",
-            "reference": "Byelaw 94(1)(c)(iii), 100(1)(v)"
-        },
-        {
+          },
+          {
             "type": "ARCHAEOLOGY",
-            "typeDesc": "NOC from Archaeological Survey of India (ASI)",
-            "stage": "Planning Permit",
+            "description": "NOC from Archaeological Survey of India (ASI)",
             "isRequired": true,
-            "applicability": "Near protected monuments",
+            "source": "SITE_ENGINEER",
+            "conditions": ["Near protected monuments"],
             "reference": "Byelaw 117(x)"
-        },
-        {
+          },
+          {
             "type": "STRUCTURAL_SAFETY",
-            "typeDesc": "Structural Safety Certificate",
-            "stage": "Planning Permit",
+            "description": "Structural Safety Certificate",
             "isRequired": true,
-            "applicability": "G+3 / >12 m / special structures",
+            "source": "ENGINEER",
+            "conditions": ["G+3 buildings", "Height > 12 m", "Special structures"],
             "reference": "Byelaw 18(b), 100(1)(i), 118"
-        },
-        {
+          },
+          {
             "type": "SOIL_TEST",
-            "typeDesc": "Soil Test Report",
-            "stage": "Planning Permit",
+            "description": "Soil Test Report",
             "isRequired": true,
-            "applicability": "Buildings >12 m",
+            "source": "ENGINEER",
+            "conditions": ["Building height > 12 m"],
             "reference": "Byelaw 100(1)(ii)"
-        },
-        {
-            "type": "LIFT_SAFETY",
-            "typeDesc": "Lift Installation & Safety Certificate",
-            "stage": "Building Permit / Occupancy",
-            "isRequired": true,
-            "applicability": "Buildings with lifts",
-            "reference": "Byelaw 118(k)(i)"
-        },
-        {
-            "type": "STP_CLEARANCE",
-            "typeDesc": "NOC for Sewage Treatment Plant (STP)",
-            "stage": "Building Permit",
-            "isRequired": true,
-            "applicability": "Large layouts, group housing, hospitals, etc.",
-            "reference": "Byelaw 94(1)(a)(i)"
-        },
-        {
-            "type": "ESZ_CLEARANCE",
-            "typeDesc": "Clearance from District ESZ Monitoring Committee",
-            "stage": "Building Permit",
-            "isRequired": true,
-            "applicability": "Projects in Eco-Sensitive Zones, National Parks",
-            "reference": "Byelaw 117(xii)"
-        },
-        {
+          },
+          {
             "type": "POLICE_CLEARANCE",
-            "typeDesc": "Police Clearance",
-            "stage": "Planning Permit",
+            "description": "Police Clearance",
             "isRequired": true,
-            "applicability": "Within 700 m of Police HQ & sensitive establishments",
+            "source": "OTHER",
+            "conditions": ["Within 700 m of Police HQ", "Sensitive establishments nearby"],
             "reference": "State Home Dept"
-        },
-        {
+          },
+          {
             "type": "TREE_ENVIRONMENT",
-            "typeDesc": "Environmental / Tree Cutting Clearance",
-            "stage": "Planning Permit",
+            "description": "Environmental / Tree Cutting Clearance",
             "isRequired": true,
-            "applicability": "If tree cutting / landfilling involved",
+            "source": "SITE_ENGINEER",
+            "conditions": ["Tree cutting involved", "Landfilling involved"],
             "reference": "Forest Dept. / PCBA"
-        },
-        {
+          },
+          {
             "type": "ELECTRICITY_DEPT",
-            "typeDesc": "NOC from Electricity Department",
-            "stage": "Planning Permit",
+            "description": "NOC from Electricity Department",
             "isRequired": true,
-            "applicability": "If High tension wires pass the plot",
+            "source": "SITE_ENGINEER",
+            "conditions": ["High tension wires passing the plot"],
             "reference": "Power Dept / ASEB / APDCL"
-        },
-        {
+          },
+          {
             "type": "SAD_CLEARANCE",
-            "typeDesc": "Secretariat Administration Dept. (SAD)",
-            "stage": "Planning Permit",
+            "description": "Secretariat Administration Dept. (SAD)",
             "isRequired": true,
-            "applicability": "Sites within Secretariat perimeter",
+            "source": "OTHER",
+            "conditions": ["Sites within Secretariat perimeter"],
             "reference": "SAD Circulars"
-        },
-        {
+          },
+          {
             "type": "HOME_SECURITY",
-            "typeDesc": "Police / Home Dept. (Security)",
-            "stage": "Planning Permit",
+            "description": "Police / Home Dept. (Security)",
             "isRequired": true,
-            "applicability": "Projects near Secretariat, Assembly, Police HQ",
+            "source": "OTHER",
+            "conditions": ["Projects near Secretariat", "Assembly", "Police HQ"],
             "reference": "State Home Dept. & DDMA"
-        },
-        {
+          },
+          {
             "type": "CIVIL_AVIATION_AZARA",
-            "typeDesc": "Civil Aviation NOC (Azara Revenue Circle)",
-            "stage": "Planning Permit",
+            "description": "Civil Aviation NOC (Azara Revenue Circle)",
             "isRequired": true,
-            "applicability": "Within LGBI Airport zone",
+            "source": "SITE_ENGINEER",
+            "conditions": ["Within LGBI Airport zone"],
             "reference": "Byelaw 28(f), 60(f)"
-        },
-        {
+          },
+          {
             "type": "AZARA_CIRCLE",
-            "typeDesc": "Azara Circle Office Clearance",
-            "stage": "Planning Permit",
+            "description": "Azara Circle Office Clearance",
             "isRequired": true,
-            "applicability": "All projects in Azara Circle",
+            "source": "OTHER",
+            "conditions": ["Projects located in Azara Circle"],
             "reference": "Memo 07.02.2013; GMDA/GEN/82/2012/74; Memo 19.07.2018"
-        },
-        {
+          },
+          {
             "type": "WATER_RESOURCES",
-            "typeDesc": "Water Resources Dept. Clearance",
-            "stage": "Planning Permit",
+            "description": "Water Resources Dept. Clearance",
             "isRequired": true,
-            "applicability": "Filling wetlands / altering natural drains",
+            "source": "SITE_ENGINEER",
+            "conditions": ["Filling wetlands", "Altering natural drains"],
             "reference": "Dept. Orders"
-        }
+          }
+        ]
+      },
+      {
+        "permitType": "Building Permit",
+        "nocs": [
+          {
+            "type": "FIRE_SAFETY",
+            "description": "NOC from Director of Fire & Emergency Services",
+            "isRequired": true,
+            "source": "DXF_FILE",
+            "conditions": [
+              "All non-residential buildings",
+              "Building height > 15.8 m"
+            ],
+            "reference": "Byelaw 28(d), 60(d), 94(2)(a)"
+          },
+          {
+            "type": "POLLUTION_CONTROL",
+            "description": "NOC from State Pollution Control Board (PCBA)",
+            "isRequired": true,
+            "source": "SITE_ENGINEER",
+            "conditions": [
+              "Hazardous industries",
+              "Large commercial or hospitals",
+              "Built-up area >= 2 lakh sq. ft."
+            ],
+            "reference": "Byelaw 95"
+          },
+          {
+            "type": "ARMY_DEFENCE",
+            "description": "NOC from Army / Defence Authority",
+            "isRequired": true,
+            "source": "SITE_ENGINEER",
+            "conditions": [
+              "Within 2000 m of depots",
+              "Within 1000 m of firing ranges",
+              "Within 500 m of cantonments"
+            ],
+            "reference": "Byelaw 117(xi); Govt. Letter 07.06.2010"
+          },
+          {
+            "type": "GROUND_WATER",
+            "description": "NOC from State Ground Water Authority",
+            "isRequired": true,
+            "source": "SITE_ENGINEER",
+            "conditions": ["If groundwater extraction proposed"],
+            "reference": "Byelaw 100(1)(iv)"
+          },
+          {
+            "type": "HEALTH_AUTHORITY",
+            "description": "NOC from Health Authority",
+            "isRequired": true,
+            "source": "SITE_ENGINEER",
+            "conditions": [
+              "Hospitals",
+              "Nursing homes",
+              "Incinerators"
+            ],
+            "reference": "Byelaw 94(1)(c)(ix)"
+          },
+          {
+            "type": "SACFA_RF",
+            "description": "NOC from SACFA (Radio Frequency)",
+            "isRequired": true,
+            "source": "SITE_ENGINEER",
+            "conditions": ["Telecom towers", "Rooftop antennae"],
+            "reference": "Byelaw 118(h)(iii)(a)"
+          },
+          {
+            "type": "ELECTRICAL_INSPECTOR",
+            "description": "NOC from Chief Electrical Inspector",
+            "isRequired": true,
+            "source": "DXF_FILE",
+            "conditions": ["Building height > 15 m", "Lifts or heavy load"],
+            "reference": "Byelaw 94(1)(c)(iii), 100(1)(v)"
+          },
+          {
+            "type": "STP_CLEARANCE",
+            "description": "NOC for Sewage Treatment Plant (STP)",
+            "isRequired": true,
+            "source": "SITE_ENGINEER",
+            "conditions": ["Group housing", "Hospitals", "Large layouts"],
+            "reference": "Byelaw 94(1)(a)(i)"
+          },
+          {
+            "type": "ESZ_CLEARANCE",
+            "description": "Clearance from District ESZ Monitoring Committee",
+            "isRequired": true,
+            "source": "SITE_ENGINEER",
+            "conditions": ["Projects in Eco-Sensitive Zones", "National Parks"],
+            "reference": "Byelaw 117(xii)"
+          }
+        ]
+      },
+      {
+        "permitType": "Occupancy",
+        "nocs": [
+          {
+            "type": "FIRE_SAFETY",
+            "description": "Fire Safety NOC for Occupancy",
+            "isRequired": true,
+            "source": "DXF_FILE",
+            "conditions": ["All non-residential", "Building height > 15.8 m"],
+            "reference": "Byelaw 28(d), 60(d), 94(2)(a)"
+          },
+          {
+            "type": "LIFT_SAFETY",
+            "description": "Lift Installation & Safety Certificate",
+            "isRequired": true,
+            "source": "ENGINEER",
+            "conditions": ["Buildings with lifts"],
+            "reference": "Byelaw 118(k)(i)"
+          }
+        ]
+      }
     ]
-}
+  }
+  
