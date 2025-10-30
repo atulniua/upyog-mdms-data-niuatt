@@ -359,6 +359,300 @@
                 "required": false
             }
         ]
-      }
+      },
+    {
+    "id": "57b66c2a-0033-4875-a3bd-856e5cf82431",
+    "tradeType": "GEOTECH_ENGINEER",
+    "role": ["BPA_GEOTECH_ENGINEER"],
+    "endstate": "APPROVED",
+    "applicationFee": 500,
+    "docTypes": [
+        {
+        "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+        "info": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_EDC_CERTIFICATE",
+        "info": "",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_EXP_CERTIFICATE",
+        "info": "",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+        "info": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+        "info": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+        "info": "APPL.BPAREG_INCOMETAX_STATEMENT",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_OTHERS",
+        "info": "",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+        "info": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+        "required": false
+        }
+    ]
+    },
+    {
+    "id": "57b66c2a-0033-4875-a3bd-856e5cf82432",
+    "tradeType": "CIVIL_ENGINEER",
+    "role": ["BPA_CIVIL_ENGINEER"],
+    "endstate": "APPROVED",
+    "applicationFee": 500,
+    "docTypes": [
+        {
+        "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+        "info": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_EDC_CERTIFICATE",
+        "info": "",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_EXP_CERTIFICATE",
+        "info": "",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+        "info": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+        "info": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+        "info": "APPL.BPAREG_INCOMETAX_STATEMENT",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_OTHERS",
+        "info": "",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+        "info": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+        "required": false
+        }
+    ]
+    },
+    {
+    "id": "57b66c2a-0033-4875-a3bd-856e5cf82433",
+    "tradeType": "UTILITY_SERVICE_ENGINEER",
+    "role": ["BPA_UTILITY_ENGINEER"],
+    "endstate": "APPROVED",
+    "applicationFee": 500,
+    "docTypes": [
+        {
+        "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+        "info": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_EDC_CERTIFICATE",
+        "info": "",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_EXP_CERTIFICATE",
+        "info": "",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+        "info": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+        "info": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+        "info": "APPL.BPAREG_INCOMETAX_STATEMENT",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_OTHERS",
+        "info": "",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+        "info": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+        "required": false
+        }
+    ]
+    },
+    {
+    "id": "57b66c2a-0033-4875-a3bd-856e5cf82434",
+    "tradeType": "LANDSCAPE_ARCHITECT",
+    "role": ["BPA_LANDSCAPE_ARCHITECT"],
+    "endstate": "APPROVED",
+    "applicationFee": 500,
+    "docTypes": [
+        {
+        "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+        "info": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_EDC_CERTIFICATE",
+        "info": "",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_EXP_CERTIFICATE",
+        "info": "",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+        "info": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+        "info": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+        "info": "APPL.BPAREG_INCOMETAX_STATEMENT",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_OTHERS",
+        "info": "",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+        "info": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+        "required": false
+        }
+    ]
+    },
+    {
+    "id": "57b66c2a-0033-4875-a3bd-856e5cf82435",
+    "tradeType": "GROUP_AGENCY",
+    "role": ["BPA_GROUP_AGENCY"],
+    "endstate": "APPROVED",
+    "applicationFee": 500,
+    "docTypes": [
+        {
+        "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+        "info": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_EDC_CERTIFICATE",
+        "info": "",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_EXP_CERTIFICATE",
+        "info": "",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+        "info": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+        "info": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+        "info": "APPL.BPAREG_INCOMETAX_STATEMENT",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_OTHERS",
+        "info": "",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+        "info": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+        "required": false
+        }
+    ]
+    },
+    {
+    "id": "57b66c2a-0033-4875-a3bd-856e5cf82436",
+    "tradeType": "URBAN_DESIGNER",
+    "role": ["BPA_URBAN_DESIGNER"],
+    "endstate": "APPROVED",
+    "applicationFee": 500,
+    "docTypes": [
+        {
+        "code": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+        "info": "APPL.BPAREG_GOVT_APPROVED_ID_CARD",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_EDC_CERTIFICATE",
+        "info": "",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_EXP_CERTIFICATE",
+        "info": "",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+        "info": "APPL.BPAREG_PASS_PORT_SIZE_PHOTO",
+        "required": true
+        },
+        {
+        "code": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+        "info": "APPL.BPAREG_SHOWCAUSE_NOTICE_IFANY",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_INCOMETAX_STATEMENT",
+        "info": "APPL.BPAREG_INCOMETAX_STATEMENT",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_OTHERS",
+        "info": "",
+        "required": false
+        },
+        {
+        "code": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+        "info": "APPL.BPAREG_REGISTRATION_CERTIFICATE",
+        "required": false
+        }
+    ]
+    }     
     ]
   }
