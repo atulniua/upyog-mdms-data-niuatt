@@ -5,13 +5,13 @@
         {
             "id": 1,
             "occupancy": "residential",
-            "permissible": 1,
+            "permissible": 2,
             "active": true
         },
         {
             "id": 2,
             "occupancy": "mercantile / commercial",
-            "permissible": 1,
+            "permissible": 2,
             "active": true
         },
         {

@@ -5,7 +5,7 @@
         {
             "id": 1,
             "occupancy": "residential",
-            "additionalFeatureMinRequiredFloorHeight": 2.75,
+            "additionalFeatureMinRequiredFloorHeight": 3,
             "additionalFeatureMaxPermissibleFloorHeight": 4.40,
             "additionalFeatureStiltFloor": 2.5,
 

@@ -6,37 +6,29 @@
         "id": 1,
         "occupancy": "residential",
         "permissible": 1.5,
+        "maxBalconyLength": 4,
+        "maxBalconyWidth": 1.5,
+        "minSetbackFromPlotBoundary": 1.5,
         "active": true
     },
     {
         "id": 2,
         "occupancy": "mercantile / commercial",
         "permissible": 1.5,
+        "maxBalconyLength": 4,
+        "maxBalconyWidth": 1.5,
+        "minSetbackFromPlotBoundary": 1.5,
         "active": true
     },
     {
         "id": 3,
         "occupancy": "industrial",
         "permissible": 1.5,
-        "active": true
-    },
-    {
-        "id": 4,
-        "occupancy": null,
-        "permissible": 1.5,
-        "active": true
-    },
-    {
-        "id": 2,
-        "occupancy": "mercantile / commercial",
-        "permissible": 0.92,
-        "active": true
-    },
-    {
-        "id": 3,
-        "occupancy": "industrial",
-        "permissible": 0.93,
+        "maxBalconyLength": 4,
+        "maxBalconyWidth": 1.5,
+        "minSetbackFromPlotBoundary": 1.5,
         "active": true
     }
+   
 ]
 }

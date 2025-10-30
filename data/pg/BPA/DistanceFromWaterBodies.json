@@ -4,15 +4,35 @@
     "DistanceFromWaterBodies": [
     {
         "id": 1,
-        "occupancy": null,
+        "occupancy": "residential",
         "river": 15,
         "bharaluMoraBondajan": 10,
         "otherChannels": 6,
         "notifiedWaterBodies": 15,
         "otherNotifiedWaterBodies": 6,
         "otherLargePondsWaterBodies": 10,
-        "state": "pg",
-        "riskType": null,
+        "active": true
+    },
+    {
+        "id": 2,
+        "occupancy": "mercantile / commercial",
+        "river": 15,
+        "bharaluMoraBondajan": 10,
+        "otherChannels": 6,
+        "notifiedWaterBodies": 15,
+        "otherNotifiedWaterBodies": 6,
+        "otherLargePondsWaterBodies": 10,
+        "active": true
+    },
+    {
+        "id": 1,
+        "occupancy": "industrial",
+        "river": 15,
+        "bharaluMoraBondajan": 10,
+        "otherChannels": 6,
+        "notifiedWaterBodies": 15,
+        "otherNotifiedWaterBodies": 6,
+        "otherLargePondsWaterBodies": 10,
         "active": true
     }
 ]
