@@ -7,6 +7,8 @@
             "occupancy": "residential",
             "plantationGreenStripPlanValue": 300,
             "plantationGreenStripMinWidth": 0.6,
+            "minPercentage": 10,
+            "maxPercentage": 15,
             "active": true
         },
         {
@@ -14,6 +16,8 @@
             "occupancy": "mercantile / commercial",
             "plantationGreenStripPlanValue": 300,
             "plantationGreenStripMinWidth": 0.6,
+            "minPercentage": 10,
+            "maxPercentage": 15,
             "active": true
         },
         {
@@ -21,6 +25,8 @@
             "occupancy": "industrial",
             "plantationGreenStripPlanValue": 150,
             "plantationGreenStripMinWidth": 1.0,
+            "minPercentage": 10,
+            "maxPercentage": 15,
             "active": true
         }
     ]
