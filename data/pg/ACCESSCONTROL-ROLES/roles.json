@@ -928,33 +928,33 @@
       "description": "Internal role for plain access"
     },
     {
-      "code": "GEO_TECH_ENGINEER",
-      "name": "Geo Tech Engineer",
+      "code": "BPA_GEO_TECH_ENGINEER",
+      "name": "BPA Geo Tech Engineer",
       "description": "Role for Geo Technical Engineering professional"
     },
     {
-      "code": "CIVIL_ENGINEER",
-      "name": "Civil Engineer",
+      "code": "BPA_CIVIL_ENGINEER",
+      "name": "BPA Civil Engineer",
       "description": "Role for Civil Engineering professional"
     },
     {
-      "code": "UTILITY_SERVICE_ENGINEER",
-      "name": "Engineers for Utility Service",
+      "code": "BPA_UTILITY_SERVICE_ENGINEER",
+      "name": "BPA Engineers for Utility Service",
       "description": "Role for Engineers providing Utility Services"
     },
     {
-      "code": "LANDSCAPE_ARCHITECT",
-      "name": "Landscape Architect",
+      "code": "BPA_LANDSCAPE_ARCHITECT",
+      "name": "BPA Landscape Architect",
       "description": "Role for Landscape Architecture professional"
     },
     {
-      "code": "GROUP_AGENCY",
-      "name": "Group Agency",
+      "code": "BPA_GROUP_AGENCY",
+      "name": "BPA Group Agency",
       "description": "Role for Group Agency handling collective projects"
     },
     {
-      "code": "URBAN_DESIGNER",
-      "name": "Urban Designer",
+      "code": "BPA_URBAN_DESIGNER",
+      "name": "BPA Urban Designer",
       "description": "Role for Urban Design professional"
     }
   ]
