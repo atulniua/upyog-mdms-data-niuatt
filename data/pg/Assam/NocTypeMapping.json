@@ -1,6 +1,6 @@
 {
-    "tenantId": "as",
-    "module": "BPA",
+    "tenantId": "pg",
+    "moduleName": "BPA",
     "nocRules": [
       {
         "permitType": "Planning Permit",
