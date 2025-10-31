@@ -926,6 +926,36 @@
       "code": "PET_INTERNAL_MICROSERVICE_ROLE",
       "name": "PET Internal Microservice Role",
       "description": "Internal role for plain access"
+    },
+    {
+      "code": "BPA_GEO_TECH_ENGINEER",
+      "name": "BPA Geo Tech Engineer",
+      "description": "Role for Geo Technical Engineering professional"
+    },
+    {
+      "code": "BPA_CIVIL_ENGINEER",
+      "name": "BPA Civil Engineer",
+      "description": "Role for Civil Engineering professional"
+    },
+    {
+      "code": "BPA_UTILITY_SERVICE_ENGINEER",
+      "name": "BPA Engineers for Utility Service",
+      "description": "Role for Engineers providing Utility Services"
+    },
+    {
+      "code": "BPA_LANDSCAPE_ARCHITECT",
+      "name": "BPA Landscape Architect",
+      "description": "Role for Landscape Architecture professional"
+    },
+    {
+      "code": "BPA_GROUP_AGENCY",
+      "name": "BPA Group Agency",
+      "description": "Role for Group Agency handling collective projects"
+    },
+    {
+      "code": "BPA_URBAN_DESIGNER",
+      "name": "BPA Urban Designer",
+      "description": "Role for Urban Design professional"
     }
   ]
 }
